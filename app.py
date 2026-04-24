@@ -10,4 +10,4 @@ if __name__ == "__main__":
     main()
 
 def login(username):
-    pass
+    print("Master branch version of login")
