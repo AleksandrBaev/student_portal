@@ -8,4 +8,6 @@ def main():
 
 if __name__ == "__main__":
     main()
-```
+
+def login(username):
+    print(f"User {username} successfully logged in.")
