@@ -11,3 +11,6 @@ if __name__ == "__main__":
 
 def login(username):
     print(f"User {username} successfully logged in.")
+
+def logout(username):
+    print(f"User {username} logged out.")
